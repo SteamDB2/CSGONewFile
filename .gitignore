@@ -1,0 +1,11 @@
+Protobufs/google/
+.support/
+*staged_*
+*.dylib
+*.dll
+*.so
+*.vpk
+*.vpk.manifest.txt
+*.swf
+*.pbin
+

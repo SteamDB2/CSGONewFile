@@ -1,0 +1,1770 @@
+
+!
+!%s|%d|%d|%hu|%d!
+!%s|%d|%hu|%d!
+!=
+"
+"!
+"%s"
+"%s" = "%s"
+"></img>
+#
+#base
+#base is NULL
+#empty#
+#include
+#include is NULL
+#int#
+$
+$G
+$atlas_group
+$basetexture
+$maskmap1
+$maskmap2
+$normalmap
+$phongexponenttexture
+$tI
+%
+%%.%if%s
+%-60s -----------
+%-80s
+%-80s - %.80s
+%02x
+%=
+%d %d %d %d
+%d total counted strings.
+%d:
+%f %f %f %f
+%hd
+%hu
+%i %i %i %i
+%i%s
+%lg
+%lld
+%llu
+%ls [wstring, len = %d]
+%s "%s"
+%s %s %s %s
+%s (%d) : %s
+%s (block %i)
+%s - %s
+%s has lower LOD which has higher triangle count
+%s%d
+%s(%d): MDL Cache allocation outside the pool. %s : %d.
+%s,
+%s/%s
+%s/%s : missmatched parent bones on "%s"
+%s/*.*
+%s/bin/%s
+%s\%s
+%s\*
+%u
+%u unresolved links found
+&
+&#35;
+&#36;
+&#92;
+&&
+&=
+&AElig;
+&Aacute;
+&Acirc;
+&Agrave;
+&Aring;
+&Atilde;
+&Auml;
+&Ccedil;
+&ETH;
+&Eacute;
+&Ecirc;
+&Egrave;
+&Euml;
+&Iacute;
+&Icirc;
+&Igrave;
+&Iuml;
+&Ntilde;
+&Oacute;
+&Ocirc;
+&Ograve;
+&Oslash;
+&Otilde;
+&Ouml;
+&THORN;
+&Uacute;
+&Ucirc;
+&Ugrave;
+&Uuml;
+&Yacute;
+&aacute;
+&acirc;
+&acute;
+&aelig;
+&agrave;
+&amp;
+&apos;
+&aring;
+&atilde;
+&auml;
+&brvbar;
+&ccedil;
+&cedil;
+&cent;
+&copy;
+&curren;
+&deg;
+&divide;
+&eacute;
+&ecirc;
+&egrave;
+&eth;
+&euml;
+&euro;
+&frac12;
+&frac14;
+&frac34;
+&gt;
+&iacute;
+&icirc;
+&iexcl;
+&igrave;
+&iquest;
+&iuml;
+&laquo;
+&lt;
+&macr;
+&mdash;
+&micro;
+&middot;
+&nbsp;
+&ndash;
+&not;
+&ntilde;
+&oacute;
+&ocirc;
+&ograve;
+&ordf;
+&ordm;
+&oslash;
+&otilde;
+&ouml;
+&para;
+&plusmn;
+&pound;
+&quot;
+&raquo;
+&reg;
+&sect;
+&shy;
+&sup1;
+&sup2;
+&sup3;
+&szlig;
+&thorn;
+&times;
+&trade;
+&uacute;
+&ucirc;
+&ugrave;
+&uml;
+&uuml;
+&yacute;
+&yen;
+&yuml;
+'
+(
+( def. "%s" )
+()
+(*%s*),
+(7
+(E
+(anonymous namespace)
+)
+)#
+*
+*** Restoring: %s
+*************  DO NOT IGNORE ME  *******************************
+****************************************************************
+*=
++
+++
++=
+,
+,%03d
+,+
+-
+-------------------------------------------------------------------------------CMDLCache::GetStudioHdr(0x%X) : invalid handle, not in dictionary (of size %u).-------------------------------------------------------------------------------
+-->
+-=
+->*
+-allowdebug
+-in-
+-valveinternal
+-xlsp
+.
+.%c
+...
+../public/studio.cpp
+./
+.360
+.\
+.ani
+.dx90.vtx
+.phy
+.ps3
+.so
+.vmt
+.vtf
+.vvd
+/
+//
+/=
+/home/buildbot/buildslave/csgo_pcbeta_server_linux/build/src/public/tier0/tslist.h
+0
+0123456789ABCDEF
+0123456789ABCDEF$
+0123456789abcdef
+0@
+0G
+0x%016llX
+0x%08x : %p : %s
+0x%p
+1
+1 - show hitches , 2 - show stalls
+1.0
+10CDataCache
+10ConCommand
+10IAppSystem
+10IDataCache
+11CRefCountedI20CRefCountServiceBaseILb1E6CRefMTEE
+12CDataManagerI15DataCacheItem_t19DataCacheItemData_tPS0_16CThreadFastMutexE
+12CEmptyConVar
+14CBaseAppSystemI10IDataCacheE
+14CBaseAppSystemI15IPrecacheSystemE
+14CBaseAppSystemI22IResourceAccessControlE
+14CBaseAppSystemI9IMDLCacheE
+14ConCommandBase
+15CPrecacheSystem
+15CStudioVCollide
+15CTier0AppSystemI10IDataCacheE
+15CTier0AppSystemI15IPrecacheSystemE
+15CTier0AppSystemI22IResourceAccessControlE
+15CTier0AppSystemI9IMDLCacheE
+15CTier1AppSystemI10IDataCacheLi0EE
+15CTier1AppSystemI15IPrecacheSystemLi0EE
+15CTier1AppSystemI22IResourceAccessControlLi0EE
+15CTier1AppSystemI9IMDLCacheLi0EE
+15CTier2AppSystemI10IDataCacheLi0EE
+15CTier2AppSystemI15IPrecacheSystemLi0EE
+15CTier2AppSystemI9IMDLCacheLi0EE
+15CTier3AppSystemI10IDataCacheLi0EE
+15CTier3AppSystemI9IMDLCacheLi0EE
+15ECombinedResult
+15IPrecacheSystem
+16CDataManagerBase
+16CDefaultAccessor
+16CDllDemandLoader
+16IDataCacheClient
+16IStudioDataCache
+17CDataCacheSection
+17IDataCacheSection
+18CUtlCharConversion
+19CUtlNoEscConversion
+2
+20CRefCountServiceBaseILb1E6CRefMTE
+20ConVar_ServerBounded
+21CUtlCStringConversion
+21IKeyValuesDumpContext
+22CResourceAccessControl
+22IResourceAccessControl
+23CDefaultDataCacheClient
+23CSplitScreenAddedConVar
+23IConCommandBaseAccessor
+25CDataCacheSectionFastFind
+27IKeyValuesDumpContextAsText
+29CKeyValuesDumpContextAsDevMsg
+3
+4
+4&
+47
+5
+6
+6"
+6+
+6ConVar
+7
+7IConVar
+8
+8CFmtStrNILi256ELb0EE
+9
+9CMDLCache
+9IMDLCache
+:
+::*
+;
+;0
+<
+<!--
+</a>
+</b>
+</h1>
+</i>
+</pre>
+</s>
+</script>
+</u>
+</ul>
+<<
+<< NULL >>
+<<=
+<<null>>
+<b>
+<br>
+<h1>
+<i>
+<img src="
+<li>
+<pre>
+<s>
+<u>
+<ul>
+=
+==
+>
+>>
+>>=
+?
+?%-60s %7.1f KiB
+@
+@7
+@@
+@D
+@G
+@q
+A
+A0
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+Access to %s resource "%s" denied. Missing precache in %s?
+AnimBlock
+Animblock cache successfully cleared
+Assertion Failed: g_StudioHdrToActivityMaps[i].nRefs == 0
+Async
+Attempted to limit access while already limiting access!
+B
+Bad expression operator: '%c%c', expected C style operator
+Bad expression token: %c
+BodyPartHeader_t
+BoneStateChangeHeader_t
+Broken promise
+BuiltDebug
+C
+C+
+C0
+CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!
+CCommand::Tokenize: Encountered command which overflows the tokenizer buffer.. Skipping!
+CDataCache::EnsureCapacity
+CDataCache::Flush
+CDataCache::Purge
+CDataCacheSection::Add
+CDataCacheSection::EndFrameLocking
+CDataCacheSection::EnsureCapacity
+CDataCacheSection::Find
+CDataCacheSection::Flush
+CDataCacheSection::FrameLock
+CDataCacheSection::Get
+CDataCacheSection::GetAndLockMultiple
+CDataCacheSection::GetNoTouch
+CDataCacheSection::Lock
+CDataCacheSection::Purge
+CDataCacheSection::Remove
+CDataCacheSection::Unlock
+CKeyValuesTokenReader::SeekBackOneToken: It is only possible to seek back one token at a time
+CMDLCache:: Error MDLCACHE_STUDIOHDR not present for '%s'
+CMDLCache:: Out of memory
+CMDLCache::CacheVertexData
+CMDLCache::ReadMDLFile
+CMDLCache::UnserializeAnimBlock
+CMDLCache::UnserializeVCollide
+CMDLCache::UpdateCombiner - model handles have been freed
+CMDLCache::VerifyHeaders
+COLORCORRECTION_VERSION_1
+CONTENT
+CStudioHdr::CActivityToSequenceMapping::FindMapping
+CStudioHdr::CActivityToSequenceMapping::Initialize
+CStudioHdr::CActivityToSequenceMapping::ReleaseMapping
+CTSListBase: Misaligned list
+CTSQueue: Misaligned queue
+CThreadEvent::CThreadEvent(bool)
+CThreadEvent::Reset()
+CThreadEvent::Set()
+CThreadEvent::Wait(unsigned int)
+CThreadFastMutex::Lock(unsigned int, unsigned int) volatile
+CThreadRWLock::LockForWrite()
+CThreadRWLock::UnlockWrite()
+CThreadRWLock::WaitForRead()
+CThreadSpinRWLock::SpinLockForRead()
+CThreadSpinRWLock::SpinLockForWrite()
+CThreadSyncObject::~CThreadSyncObject()
+CUtlBuffer::VaPrintf: String overflowed buffer [%d]
+CUtlFixedMemory overflow!
+CUtlLinkedList overflow! (exhausted index range)
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlMultiList overflow! (exhausted index range)
+CUtlMultiList overflow! (exhausted memory allocator)
+CUtlRBTree overflow!
+CUtlSymbol::AddString
+CUtlSymbol::Find
+CVProfNode::EnterScope()
+CVProfNode::ExitScope()
+CVProfNode::GetSubNode(char const*, int, char const*, int)
+Cache section to restrict mem_force_flush
+Call to NULL CStudioHdr::GroupStudioHdr()
+CallAssertFailedNotifyFunc
+Cannot clear animblock cache - %d blocks still in use!
+Cannot find requested cache section "%s"
+Check all vcollides on load
+CkeyValuesTokenReader::SeekBackOneToken: No tokens read yet
+Clears the animation cache, freeing the memory (until the next time a streaming animblock is requested).
+Combined Name: %s
+Combiner
+CommandLine
+ConMsg(char const*, ...)
+ConVar(%s) defined with infinite float value (%s)
+ConVarRef %s doesn't point to an existing ConVar
+Conditional Error: %s
+CreateInterface
+CreateSimpleThread
+D
+DEMO
+DLOPEN Error:%s
+Data manager 'used' memory incorrect
+DataCacheItem_t pool
+DataCount: %d  MeshCount: %d  AnimCount: %d
+DataLinker total stream size
+DebugTextureInfo001
+DevMsg
+DevMsg(char const*, ...)
+DevWarning(char const*, ...)
+DoNewAssertDialog
+Dump the state of the MDLCache Dictionary.
+Duplicate add to data cache
+E
+E0
+EMPTY - ok for slot zero only!
+ERROR: CMDLCacheData::Detach used incorrectly (there is no data to return!)
+ERROR: CMDLCacheData::ReadFileNative is only supported when using ALLOC_MALLOC
+Empty model %s
+Error
+Error Index File for '%s' checksum %ld should be %ld
+Error Index File for '%s' version %d should be %d
+Error Vertex File for '%s' checksum %ld should be %ld
+Error Vertex File for '%s' id %d should be %d
+Error Vertex File for '%s' version %d should be %d
+EventSystem001
+F
+FCVAR_NEVER_AS_STRING
+Failed to create %s
+Failed to load %s!
+Failure to release anim block allocator, unexpected remaining allocations
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified!
+For the dedicated server, don't load model vertex data
+Force cache flush of unlocked resources on every alloc
+Forces all ANI file loading to stall for specified ms
+Forces all model file data into cache on model load.
+Future already retrieved
+G
+G0
+GAME
+GAMECONSOLE
+GCC: (crosstool-NG 1.12.2) 4.6.1
+GLIBC_2.0
+GLIBC_2.1
+GLIBC_2.1.3
+GLIBC_2.2
+GLIBC_2.2.4
+GLIBC_2.3
+GLIBC_2.3.2
+GNU
+GameUISystemMgr001
+GetCPUInformation
+H
+I
+I0
+ID %d%c: x=%d y=%d width=%d height=%d
+Indicates how far ahead in seconds to preload animations.
+InputStackSystemVersion001
+InputSystemVersion001
+InstallChangeCallback called with NULL callback, ignoring!!!
+InstallChangeCallback ignoring duplicate change callback!!!
+Internal model combiner buffer not large enough
+Invalid index passed to CStudioHdr(%s)::GroupStudioHdr(): %d [%d]
+Invalid new target @%p
+Invalid node
+J
+JArray
+K
+KB
+KV Conditional Evaluation Error
+KeyValues Error: %s in file %s line %d
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues::RecursiveSaveToFile: TODO, missing code for TYPE_COLOR.
+KeyValues::SaveToFile: couldn't open file "%s" in path "%s".
+KeyValuesSystem
+L
+L7
+LINUX
+LOG_GENERAL
+LOWVIOLENCE
+Link source @%d '%s' is out of range (%d doesn't fit to 16 bits)
+Link(%p,%p) can't find offsets (%d,%d)
+Link(%p,%p) is self-referencing (%d==%d), this is prohibited by this kind of offset. It'll be interpreted as Null offset at runtime
+Link16(%p,%p) offsets are too far (%d,%d)
+LoadFromBuffer: missing {
+Loading %s
+Loading virtual model for %s
+Localize_001
+Locked %d
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+LoggingSystem_LogAssert
+Logic Error in CExpressionEvaluator
+M
+M+
+MATCHFRAMEWORK_001
+MB
+MDLCache004
+MDLCache:
+MDLCache: %s load vcollide %s
+MDLCache: %s needs to be recompiled
+MDLCache: Alloc VTX %s
+MDLCache: Alloc VVD %s
+MDLCache: Alloc studiohdr %s
+MDLCache: Begin load Anim Block %s (block %i, bytes %d)
+MDLCache: Begin load VTX %s
+MDLCache: Begin load VVD %s
+MDLCache: Begin load studiomdl %s
+MDLCache: Data cache discard %s %s
+MDLCache: Failed load anim block %s (block %i)
+MDLCache: Failed load of .PHY data for %s
+MDLCache: Failed load of .VTX data for %s
+MDLCache: Failed load of .VVD data for %s
+MDLCache: Finish load anim block %s (block %i)
+MDLCache: Finish load vcollide for %s
+MDLCache: Free Anim block %s (block: %d)
+MDLCache: Free VTX
+MDLCache: Free VVD
+MDLCache: Free VVD %s
+MDLCache: Free studiohdr
+MDLCache: Free studiohdr %s
+MDLCache: Load VTX (verify) %s
+MDLCache: Load VVD (verify) %s
+MDLCache: Load VVD for %s
+MDLCache: Load studiohdr %s
+MDLCache: Load studiohwdata %s
+MDLCache: Unload studiohwdata %s
+MDLCache: Unload vcollide %s
+MOD
+MatSystemSurface006
+MaterialReplacementHeader_t
+MaterialReplacementListHeader_t
+MaterialSystemHardwareConfig013
+MeshData
+MeshHeader_t
+MeshSystem001
+Missing asset file: %s
+Model %s doesn't have a studiohdr2, which should've been fixed. This is required of all models now.
+Model %s has mismatched .vvd + .vtx files!
+Model %s not a .MDL format file!
+Model %s not found and %s couldn't be loaded
+Model %sLOD %d Tris %dLOD %d Tris %d
+ModelData
+ModelHeader_t
+ModelLODHeader_t
+ModelMesh
+Module %s is a debug build
+Msg
+N
+N10DataLinker11ILinkStreamE
+N10DataLinker12IBasicStreamE
+N10DataLinker6StreamE
+N10DataLinker7IStreamE
+N10__cxxabiv115__forced_unwindE
+N10__cxxabiv119__foreign_exceptionE
+N12_GLOBAL__N_121future_error_categoryE
+N12_GLOBAL__N_121system_error_categoryE
+N12_GLOBAL__N_122generic_error_categoryE
+N9__gnu_cxx20recursive_init_errorE
+N9__gnu_cxx24__concurrence_lock_errorE
+N9__gnu_cxx26__concurrence_unlock_errorE
+NSt13__future_base11_State_baseE
+NSt13__future_base12_Result_baseE
+NSt8ios_base7failureE
+NULL
+NetworkSystemVersion001
+No associated state
+No primary model specified
+No such file
+O
+OSX
+P
+P?
+P@
+POSIX
+PS3
+Physics2 Interface ActorMgr v0.1
+Physics2 Interface ResourceMgr v0.1
+Physics2 Interface v0.3
+Plat_ExitProcess
+Plat_FloatTime
+Plat_IsInDebugSession
+Plat_MSTime
+Primary Model: %s
+Promise already satisfied
+Q
+QueuedLoaderVersion001
+R
+RandomFloat
+RandomSeed
+ReadToken overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got conditional between key and value
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  recursion overflow
+RenderDevice001
+RenderDeviceMgr001
+RenderHardwareConfig001
+RenderSystemSurface001
+ResourceSystem004
+S
+SSE and SSE2 are required.
+STUDIODATA_ERROR_MODEL
+STUDIODATA_FLAGS_COMBINED
+STUDIODATA_FLAGS_COMBINED_ASSET
+STUDIODATA_FLAGS_COMBINED_PLACEHOLDER
+STUDIODATA_FLAGS_COMBINED_UNAVAILABLE
+STUDIODATA_FLAGS_NO_STUDIOMESH
+STUDIODATA_FLAGS_NO_VERTEX_DATA
+STUDIODATA_FLAGS_PHYSICS2COLLISION_LOADED
+STUDIODATA_FLAGS_STUDIOMESH_LOADED
+STUDIODATA_FLAGS_VCOLLISION_LOADED
+STUDIODATA_FLAGS_VCOLLISION_SCANNED
+SceneSystem_001
+Secondary Model %d: %s
+Section [%s]: %i resources total %s, %.2f %% of limit (%s)
+ShouldUseNewAssertDialog
+Size in MB.
+SoundSystem001
+St10bad_typeid
+St11logic_error
+St11range_error
+St11regex_error
+St12domain_error
+St12future_error
+St12length_error
+St12out_of_range
+St12system_error
+St13bad_exception
+St13runtime_error
+St14error_category
+St14overflow_error
+St15underflow_error
+St16invalid_argument
+St17bad_function_call
+St8bad_cast
+St9bad_alloc
+St9exception
+St9type_info
+String %d: ref:%d %s
+StripGroupHeader_t
+StripHeader_t
+Studio activity sequence mapping leak! (%s, %d)
+Studiobyteswap line %d: Misaligned data found in %s
+Substituting model %s for %s because gpu_level is %d
+Summary: %i resources total %s, %.2f %% of capacity
+Sync
+T
+T+
+T7
+ThreadGetCurrentId
+ThreadInMainThread
+ThreadInterlockedAssignIf64
+ThreadSetDebugName
+ThreadSleep
+Too many bones from secondary model %s
+Too many bones in primary model: %d > %d
+Too many initial strings %d > %d
+Too many strings for string table of size %d
+Total: %d
+Tq
+Trying to set invalid target %d to here (absolute offset %d)
+Trying to set invalid target %d to null
+U
+UCS-2LE
+UCS-4LE
+UTF-32LE
+UTF-8
+Unable to load corrupted map.
+Unaccounted
+Unknown Texture
+Unknown bone type %d found!
+Unknown cache section %s
+Unknown error
+Unresolved link source @%d '%s'
+Unresolved link source @0x%X '%s'
+V
+VAvi001
+VBAllocTracker001
+VBik001
+VDataCache003
+VDmeMakeFileUtils001
+VEngineCvar007
+VFileSystem017
+VGUI_Input005
+VGUI_Panel009
+VGUI_Scheme010
+VGUI_Surface031
+VGUI_System010
+VGUI_ivgui008
+VMDLLIB001
+VMaterialSystem080
+VMaterialSystem2_001
+VNewAsyncFileSystem001
+VP4002
+VPhysicsCollision007
+VPhysicsSurfaceProps001
+VPrecacheSystem001
+VProcessUtils002
+VResourceAccessControl001
+VSoundEmitter003
+VStudioDataCache005
+VStudioRender026
+VTF
+VTT for
+V_AppendSlash: ran out of space on %s.
+V_MakeAbsolutePath: _getcwd failed.
+VertexLitGeneric
+Vertex_t
+W
+WIN32
+WINDOWS
+Warning
+Warning:  %s = '%s' is infinite, clamping value.
+WorldRendererMgr001
+WriteMiniDump
+Wrong alignment %d
+Wrong offset spec. Most probably you called an extra Write() before calling WriteOffset() - %s
+X
+X360
+Y
+Z
+Z+
+[
+[%.3f server clamped to %.3f]
+[%8.3f] hitch on %s:%s:%d:%d
+[%8.3f] stall blend %.2f on %s:%s:%d:%d
+[%8.3f] stall on %s:%s:%d:%d
+[*]
+[/b]
+[/code]
+[/h1]
+[/i]
+[/img]
+[/list]
+[/s]
+[/u]
+[/url]
+[b]
+[code]
+[h1]
+[i]
+[img]
+[list]
+[s]
+[u]
+[url=
+\
+\0
+\7
+]
+^
+^=
+_
+_Accum
+_ExitOnFatalAssert
+_Fract
+_GLOBAL_
+_Jv_RegisterClasses
+_Sat
+___tls_get_addr
+___tls_get_addr@@GLIBC_2.3
+__bss_start
+__cxa_atexit
+__cxa_atexit@@GLIBC_2.1.3
+__cxa_finalize
+__cxa_finalize@@GLIBC_2.1.3
+__errno_location
+__errno_location@@GLIBC_2.0
+__float128
+__gmon_start__
+__gnu_cxx::__concurrence_unlock_error
+__vector(
+_edata
+_end
+_fini
+_init
+_valveinternal
+_xlsp
+`
+`8
+a
+aN
+aS
+aa
+abort
+abort@@GLIBC_2.0
+acos
+acos@@GLIBC_2.0
+acosf
+acosf@@GLIBC_2.0
+activity
+activitylistversion
+activitymodifierindex
+actweight
+aim
+aimvector
+alignof
+alongDamping
+alongStiffness
+angle
+angleLimit
+animblock
+animblockikruleindex
+animblockindex
+animindexindex
+archive
+asin
+asin@@GLIBC_2.0
+atan
+atan2
+atan2@@GLIBC_2.0
+atan2f
+atan2f@@GLIBC_2.0
+atan@@GLIBC_2.0
+autolayerindex
+axis
+axisMapSize
+az
+b
+baseDamping
+baseForwardFriction
+baseLeftFriction
+baseMass
+baseMaxForward
+baseMaxLeft
+baseMaxUp
+baseMinForward
+baseMinLeft
+baseMinUp
+baseStiffness
+baseUpFriction
+basepos
+baseptr
+basic_iostream
+basic_istream
+basic_ostream
+basic_string::_M_replace_aux
+basic_string::_S_construct null not valid
+basic_string::_S_create
+basic_string::append
+basic_string::assign
+basic_string::at
+basic_string::basic_string
+basic_string::compare
+basic_string::copy
+basic_string::erase
+basic_string::insert
+basic_string::replace
+basic_string::resize
+basic_string::substr
+benefit:
+bf
+bin/
+bodyPartOffset
+bodypartindex
+boneID
+boneStateChangeOffset
+boneWeightIndex
+bonecontroller
+bonecontrollerindex
+bonetablebynameindex
+bool
+boolean
+borrow
+boundingradius
+br
+byte
+bytes
+c
+c+
+c0
+cannot find source @%d - %s
+cbrtf
+cbrtf@@GLIBC_2.0
+cdtextureindex
+chain
+char16_t
+char32_t
+chdir
+chdir@@GLIBC_2.0
+cheat
+checkSum
+checksum
+cl
+clear_anim_cache
+client
+clientcmd_can_execute
+clientmaterial
+cm
+co
+combined_placeholder_%s
+complex
+compressedikerrorindex
+const
+constantsoffset
+constdirectionallightdot
+construction vtable for
+contact
+contents
+control
+cos@@GLIBC_2.0
+could not find open space for texture in packer
+could not locate image resource for texture '%s'
+could not located required texture in material %s
+could not read texture %s
+covariant return thunk to
+customhero
+cycle
+cycleposeindex
+d
+dV
+da
+datacache
+datacachesize
+dataend
+datastart
+decimal128
+decimal32
+decimal64
+decltype (
+decltype(nullptr)
+decodedanim
+delete
+delete[]
+detriment:
+developer
+dispatch effect
+dl_iterate_phdr
+dl_iterate_phdr@@GLIBC_2.2.4
+dlclose
+dlclose@@GLIBC_2.0
+dlerror
+dlerror@@GLIBC_2.0
+dlopen
+dlopen@@GLIBC_2.1
+dlsym
+dlsym@@GLIBC_2.0
+dragAxisAreas
+drop
+dt
+dummy
+dv
+e
+eO
+endframe
+entryphase
+event
+eventsindexed
+exitphase
+expf
+expf@@GLIBC_2.0
+eyeballindex
+eyeposition
+f
+fadeintime
+fadeouttime
+failed to dlopen %s error=%s
+false
+fixupTableStart
+flLocalQWeight
+flMaxEyeDeflection
+flPosWeight
+flVertAnimFixedPointScale
+flagsindex
+flex
+flexcontrollerindex
+flexcontrolleruiindex
+flexdescindex
+flexindex
+flexpair
+flexruleindex
+float
+float( %f )
+floor
+forward
+fps
+fputc
+fputc@@GLIBC_2.0
+fputs
+fputs@@GLIBC_2.0
+framelength
+frameoffset
+free
+free@@GLIBC_2.0
+future
+g
+g_VProfCurrentProfile
+g_nThreadID
+g_pMemAlloc
+game
+game sound
+generic
+getcwd
+getcwd@@GLIBC_2.0
+global client resource
+global constructors keyed to
+global destructors keyed to
+global server resource
+gpu_level
+groupsize
+gt
+guard variable for
+h
+h7
+half
+hardwareID
+height
+hidden alias for
+hitboxindex
+hitboxsetindex
+hull_max
+hull_min
+h~
+i
+iBone
+iG
+iNewParent
+iPose
+iSequence
+iStart
+iconv
+iconv@@GLIBC_2.1
+iconv_close
+iconv_close@@GLIBC_2.1
+iconv_open
+iconv_open@@GLIBC_2.1
+ikchainindex
+iklockindex
+ikrulezeroframeindex
+illumposition
+illumpositionattachmentindex
+image not found
+imaginary
+img
+includemodelindex
+indexOffset
+inputfield
+int( %d = 0x%X )
+inv_tolerance
+iris_scale
+isalnum
+isalnum@@GLIBC_2.0
+iscntrl
+iscntrl@@GLIBC_2.0
+isprint
+isprint@@GLIBC_2.0
+iswalnum
+iswalnum@@GLIBC_2.0
+iswalpha
+iswalpha@@GLIBC_2.0
+iswspace
+iswspace@@GLIBC_2.0
+ix
+j
+java Class for
+java resource
+k
+keyvalueindex
+keyvaluesize
+kneeDir
+l
+l?
+lS
+lastframe
+ld-linux.so.2
+legacysurfaceheader_t
+libc.so.6
+libdl.so.2
+libm.so.6
+libpthread.so.0
+libtier0.so
+libvstdlib.so
+linearboneindex
+linkindex
+linktype
+local
+localToGlobal
+localanimindex
+localattachmentindex
+localbone
+localentrynode
+localexitnode
+localhierarchyindex
+localikautoplaylockindex
+localnodeindex
+localnodenameindex
+localposeparamindex
+localseqindex
+lodOffset
+log@@GLIBC_2.0
+long double
+loop
+lowerflexdesc
+lowerlidflexdesc
+lowertarget
+lq
+lt
+m
+mI
+mL
+m_BoneWeights
+m_bInverse
+m_bNonFACS
+m_flMax
+m_flMin
+m_flWeight
+m_nBone
+m_nBoneComponent
+m_nBoneFlexDriverCount
+m_nBoneFlexDriverIndex
+m_nBoneIndex
+m_nChildBone
+m_nControlCount
+m_nControlIndex
+m_nFlexControllerIndex
+m_nParentBone
+m_nTargetCount
+m_nTargetIndex
+m_nUpSpaceTarget
+m_nUpType
+m_qAimOffset
+m_qBaseInv
+m_qBaseOrientation
+m_qBaseRotation
+m_qOffset
+m_slave
+m_unused
+m_vBasePosition
+m_vBaseTranslate
+m_vOffset
+m_vUp
+m_vUpVector
+m_vecNormal
+m_vecPosition
+m_vecTexCoord
+malloc
+malloc@@GLIBC_2.0
+mass
+mass_center
+material has replacements
+materialID
+materialReplacementListOffset
+materialparam
+materials/
+materialtype
+max. %f
+maxBonesPerFace
+maxBonesPerStrip
+maxBonesPerVert
+maxPitch
+maxYaw
+mbstowcs
+mbstowcs@@GLIBC_2.0
+mdlcache.cpp
+mdlcache_dump_dictionary_state
+mem_force_flush
+mem_force_flush_section
+memchr
+memchr@@GLIBC_2.0
+memcmp
+memcmp@@GLIBC_2.0
+memcpy
+memcpy@@GLIBC_2.0
+memmove
+memmove@@GLIBC_2.0
+memset
+memset@@GLIBC_2.0
+meshOffset
+meshid
+meshindex
+mi
+min. %f
+minPitch
+minYaw
+ml
+mm
+mod_check_vcollide
+mod_dont_load_vertices
+mod_forcedata
+mod_load_anims_async
+mod_load_fakestall
+mod_load_mesh_async
+mod_load_preload
+mod_load_showstall
+mod_load_vcollide_async
+mod_lock_mdls_on_load
+mod_lock_meshes_on_load
+mod_test_mesh_not_available
+mod_test_not_available
+mod_test_verts_not_available
+mod_trace_load
+model %s has missing material %s
+model has anim blocks: %s
+model has anim frames
+model has anim wrinkle
+model has bone controllers: %s
+model has ik rules: %s
+modelOffset
+modelType
+models/%s%s
+models/error.mdl
+models\development\blankmasks1
+models\development\blankmasks2
+models\development\flatnormal
+modf
+modf@@GLIBC_2.0
+motionflags
+mouthindex
+movementindex
+mstudio_frame_anim_t
+mstudio_meshvertexdata_t
+mstudio_modelvertexdata_t
+mstudio_rle_anim_t
+mstudioactivitymodifier_t
+mstudioaimatbone_t
+mstudioaimconstraint_t
+mstudioanim_valueptr_t
+mstudioanimblock_t
+mstudioanimdesc_t
+mstudioanimsections_t
+mstudioattachment_t
+mstudioautolayer_t
+mstudioaxisinterpbone_t
+mstudiobbox_t
+mstudiobodyparts_t
+mstudiobone_t
+mstudiobonecontroller_t
+mstudioboneflexdriver_t
+mstudioboneflexdrivercontrol_t
+mstudioboneweight_t
+mstudiocompressedikerror_t
+mstudioconstraintslave_t
+mstudioconstrainttarget_t
+mstudioevent_t
+mstudioeyeball_t
+mstudioflex_t
+mstudioflexcontroller_t
+mstudioflexcontrollerui_t
+mstudioflexdesc_t
+mstudioflexop_t
+mstudioflexrule_t
+mstudiohitboxset_t
+mstudioikchain_t
+mstudioikconstraint_t
+mstudioikerror_t
+mstudioiklink_t
+mstudioiklock_t
+mstudioikrule_t
+mstudiojigglebone_t
+mstudiolinearbone_t
+mstudiolocalhierarchy_t
+mstudiomesh_t
+mstudiomodel_t
+mstudiomodelgroup_t
+mstudiomouth_t
+mstudiomovement_t
+mstudioorientconstraint_t
+mstudioparentconstraint_t
+mstudiopointconstraint_t
+mstudioposeparamdesc_t
+mstudioquatinterpbone_t
+mstudioquatinterpinfo_t
+mstudioseqdesc_t
+mstudiosrcbonetransform_t
+mstudiotexture_t
+mstudiotwistbone_t
+mstudiotwistbonetarget_t
+mstudiovertanim_t
+mstudiovertanim_wrinkle_t
+mstudiovertex_t
+n
+na
+name
+ndelta
+never:
+new
+newBoneID
+new[]
+nextoffset
+nextseq
+no materials specified for texture combiner
+nodeflags
+non-virtual thunk to
+notconnected
+notify
+numAllowedRootLODs
+numBodyParts
+numBoneStateChanges
+numBones
+numFixups
+numIndices
+numLODVertexes
+numLODs
+numMeshes
+numModels
+numReplacements
+numStripGroups
+numStrips
+numTopologyIndices
+numVertexes
+numVerts
+numactivitymodifiers
+numanimblocks
+numattachments
+numautolayers
+numblends
+numbodyparts
+numbonecontrollers
+numbones
+numcdtextures
+numevents
+numeyeballs
+numflexcontrollers
+numflexcontrollerui
+numflexdesc
+numflexes
+numflexrules
+numframes
+numhitboxes
+numhitboxsets
+numikchains
+numiklocks
+numikrules
+numincludemodels
+numlinks
+numlocalanim
+numlocalattachments
+numlocalhierarchy
+numlocalikautoplaylocks
+numlocalnodes
+numlocalposeparameters
+numlocalseq
+nummeshes
+nummodels
+nummouths
+nummovements
+numops
+numskinfamilies
+numskinref
+numsrcbonetransform
+numtextures
+numtriggers
+numvertices
+numverts
+nw
+o
+oR
+offset_ledgetree_root
+oo
+operator
+options
+org
+origMeshVertID
+p
+p<
+pExtraData
+pL
+pTangentData
+pVertexData
+paramend
+paramparent
+paramstart
+parentindex
+particle system
+peak
+phyheader_t
+physicsbone
+pitchBounce
+pitchDamping
+pitchFriction
+pitchStiffness
+pl
+pm
+pose
+poseToBone
+posekeyindex
+posetoboneindex
+posindex
+posscale
+posscaleindex
+posttransform
+pow
+pow@@GLIBC_2.0
+pre
+pretransform
+printf@@GLIBC_2.0
+procindex
+proctype
+pthread_cancel
+pthread_cancel@@GLIBC_2.0
+pthread_cond_broadcast
+pthread_cond_broadcast@@GLIBC_2.3.2
+pthread_cond_destroy
+pthread_cond_destroy@@GLIBC_2.3.2
+pthread_cond_signal
+pthread_cond_signal@@GLIBC_2.3.2
+pthread_cond_wait
+pthread_cond_wait@@GLIBC_2.3.2
+pthread_mutex_destroy
+pthread_mutex_destroy@@GLIBC_2.0
+pthread_mutex_init
+pthread_mutex_init@@GLIBC_2.0
+pthread_mutex_lock
+pthread_mutex_lock@@GLIBC_2.0
+pthread_mutex_unlock
+pthread_mutex_unlock@@GLIBC_2.0
+pthread_mutexattr_init
+pthread_mutexattr_init@@GLIBC_2.0
+pthread_mutexattr_settype
+pthread_mutexattr_settype@@GLIBC_2.1
+pthread_once
+pthread_once@@GLIBC_2.0
+ptr( 0x%p )
+q
+qAlignment
+qalignmentindex
+qsort
+qsort@@GLIBC_2.0
+qu
+quat
+quatindex
+r
+rM
+rS
+r_rootlod
+rand
+rand@@GLIBC_2.0
+rb
+realloc
+realloc@@GLIBC_2.0
+reference temporary for
+regex_error
+remaptype
+replacementMaterialNameOffset
+replacementOffset
+replicated
+require:
+res_restrict_access
+reserved
+rest
+restrict
+rootLOD
+rot
+rotation_inertia
+rotindex
+rotscale
+rotscaleindex
+s
+s_pInterfaceRegs
+script
+sectionframes
+sectionindex
+server_can_execute
+shared system
+side
+sin@@GLIBC_2.0
+sincosf
+sincosf@@GLIBC_2.1
+sinf
+sinf@@GLIBC_2.0
+singleplayer
+sizeof
+skinindex
+slot
+solidCount
+sourceVertexID
+speed
+sprintf
+sprintf@@GLIBC_2.0
+srcbonetransformindex
+ss_added
+sscanf
+sscanf@@GLIBC_2.0
+std
+std::allocator
+std::bad_alloc
+std::bad_cast
+std::bad_exception
+std::bad_typeid
+std::basic_iostream<char, std::char_traits<char> >
+std::basic_istream<char, std::char_traits<char> >
+std::basic_ostream<char, std::char_traits<char> >
+std::basic_string
+std::basic_string<char, std::char_traits<char>, std::allocator<char> >
+std::exception
+std::iostream
+std::istream
+std::ostream
+std::string
+stderr
+stderr@@GLIBC_2.0
+steam://openurl/
+steam://openurl_external/
+stereo
+strcasecmp
+strcasecmp@@GLIBC_2.0
+strchr
+strchr@@GLIBC_2.0
+strcmp
+strcmp@@GLIBC_2.0
+strcpy
+strcpy@@GLIBC_2.0
+strerror
+strerror@@GLIBC_2.0
+string literal
+strip has topology indices
+stripGroupHeaderOffset
+stripOffset
+strlen
+strlen@@GLIBC_2.0
+strncat
+strncat@@GLIBC_2.0
+strncmp
+strncmp@@GLIBC_2.0
+strncpy
+strncpy@@GLIBC_2.0
+strnlen
+strnlen@@GLIBC_2.0
+strstr
+strstr@@GLIBC_2.0
+strtod
+strtod@@GLIBC_2.0
+strtol
+strtol@@GLIBC_2.0
+strtoll
+strtoll@@GLIBC_2.0
+strtoul
+strtoul@@GLIBC_2.0
+strtoull
+strtoull@@GLIBC_2.0
+studiodata_t pool
+studiohdr
+studiohdr2_t
+studiohdr2index
+studiohdr_t
+studiohwdata
+surfaceSize
+surfacepropLookup
+surfacepropidx
+surfacepropindex
+swapcompactsurfaceheader_t
+switchPoint
+swprintf@@GLIBC_2.2
+swscanf
+swscanf@@GLIBC_2.2
+syscall
+syscall@@GLIBC_2.0
+sz
+szFACSindex
+szactivitynameindex
+szanimblocknameindex
+szattachmentindex
+szeventindex
+szhitboxnameindex
+szindex0
+szindex1
+szindex2
+szlabelindex
+sznameindex
+sztypeindex
+t
+t%
+tail
+tan@@GLIBC_2.0
+tanf
+tanf@@GLIBC_2.0
+tangentDataStart
+tangentsindex
+target0
+target1
+target2
+target3
+terminate called after throwing an instance of '
+terminate called recursively
+terminate called without an active exception
+texture %s has too many mip levels: %d > %d
+texture '%s' has different flags than base: %d != %d
+texture '%s' has unsupported format: %d
+texture '%s' size ( %d, %d ) differs expected size ( %d, %d )
+texture has frame information %s
+texture is invalid version %s
+tipMass
+tolower
+tolower@@GLIBC_2.0
+too many subdivision within texture packer
+too many textures added to packer
+top
+topologyOffset
+toupper
+toupper@@GLIBC_2.0
+towlower
+towlower@@GLIBC_2.0
+towupper
+towupper@@GLIBC_2.0
+trigger
+triggerindex
+true
+typeinfo fn for
+typeinfo for
+typeinfo for ECombinedResult
+typeinfo for __cxxabiv1::__enum_type_info
+typeinfo for __cxxabiv1::__forced_unwind
+typeinfo for __cxxabiv1::__foreign_exception
+typeinfo for __gnu_cxx::__concurrence_lock_error
+typeinfo for __gnu_cxx::__concurrence_unlock_error
+typeinfo for __gnu_cxx::recursive_init_error
+typeinfo name for
+typeinfo name for ECombinedResult
+typeinfo name for __cxxabiv1::__enum_type_info
+typeinfo name for __cxxabiv1::__forced_unwind
+typeinfo name for __cxxabiv1::__foreign_exception
+typeinfo name for __gnu_cxx::__concurrence_lock_error
+typeinfo name for __gnu_cxx::__concurrence_unlock_error
+typeinfo name for __gnu_cxx::recursive_init_error
+u
+u64( %lld = 0x%llX )
+ul
+ull
+unknown
+unsigned
+unsigned __int128
+unsigned char
+unsigned int
+unsigned long
+unsigned long long
+unsigned short
+unsupported shader for texture combiner: %s
+unused0
+unused1
+unused2
+unused3
+unused4
+unused6
+unused7
+unused8
+unused_animblockModel
+unused_modelvertexdata
+unused_pIndexBase
+unused_pVertexBase
+unused_virtualModel
+unusedchar
+update
+upper_limit_radius
+upperflexdesc
+upperlidflexdesc
+uppertarget
+upvector
+user
+v
+v0
+v1
+vector::reserve
+vertCacheSize
+vertOffset
+vertanimtype
+vertex file has tangent data
+vertexDataStart
+vertexFileFixup_t
+vertexFileHeader_t
+vertexes
+vertexindex
+vertexoffset
+vertindex
+vgui panel
+view_bbmax
+view_bbmin
+virtualmodel
+void
+volatile
+vphysicsID
+vsnprintf
+vsnprintf@@GLIBC_2.0
+vswprintf
+vswprintf@@GLIBC_2.2
+vtable for __cxxabiv1::__class_type_info
+vtable for __cxxabiv1::__enum_type_info
+vtable for __cxxabiv1::__forced_unwind
+vtable for __cxxabiv1::__foreign_exception
+vtable for __cxxabiv1::__si_class_type_info
+vtable for __cxxabiv1::__vmi_class_type_info
+vtable for __gnu_cxx::__concurrence_lock_error
+vtable for __gnu_cxx::__concurrence_unlock_error
+vtable for __gnu_cxx::recursive_init_error
+w
+was not able to find existing weight in model: %s
+wb
+wchar_t
+wcschr
+wcschr@@GLIBC_2.0
+wcslen
+wcslen@@GLIBC_2.0
+wcsncat
+wcsncat@@GLIBC_2.0
+wcsncpy
+wcsncpy@@GLIBC_2.0
+wcstof
+wcstof@@GLIBC_2.0
+wcstol
+wcstol@@GLIBC_2.0
+wcstombs
+wcstombs@@GLIBC_2.0
+weightlistindex
+what():
+wrinkledelta
+x
+xq
+y
+yawBounce
+yawDamping
+yawFriction
+yawStiffness
+z
+zD
+zeroframecount
+zeroframespan
+zeroframestalltime
+zoffset
+{
+{default arg#
+{lambda(
+{parm#
+{unnamed type#
+|
+|=
+||
+}
+}::
+~
+
+D

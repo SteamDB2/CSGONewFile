@@ -1,0 +1,1159 @@
+
+!
+!=
+"
+"!
+"%s"
+"%s" = "%s"
+"></img>
+#
+#base
+#base is NULL
+#empty#
+#include
+#include is NULL
+#int#
+$
+$AlphaTestReference
+$alphatest
+$basetexture
+$bumpmap
+$clientShader
+$color
+$color_depth
+$decalScaleForModelMaterial
+$displacementmap
+$eyeorigin
+$eyeup
+$forward
+$frame
+$glint
+$glintu
+$glintv
+$illumfactor
+$irisu
+$irisv
+$modelmaterial
+$no_fullbright
+$nocsmwrite
+$nocull
+$phong
+$splatter
+$tI
+$translucent_material
+$treesway
+$treeswayfalloffexp
+$treeswayheight
+$treeswayradius
+$treeswayscrumblefalloffexp
+$treeswayscrumblefrequency
+$treeswayscrumblespeed
+$treeswayscrumblestrength
+$treeswayspeed
+$treeswayspeedhighwindmultiplier
+$treeswayspeedlerpend
+$treeswayspeedlerpstart
+$treeswaystartheight
+$treeswaystartradius
+$treeswaystrength
+$writez
+${
+%
+%%.%if%s
+%-7d (%-3d times, %-7d avg) %s
+%-7d total model faces rendered this frame (mat_rendered_faces_count)
+%-80s
+%-80s - %.80s
+%02x
+%=
+%d %d %d %d
+%d batch(es):
+%f %f %f %f
+%hd
+%hu
+%i %i %i %i
+%i%s
+%lg
+%lld
+%llu
+%ls [wstring, len = %d]
+%s
+%s %s %s %s
+%s [%p]
+%s%d
+%s%s
+%s,
+%s/%s
+%s/bin/%s
+&
+&#35;
+&#36;
+&#92;
+&&
+&=
+&AElig;
+&Aacute;
+&Acirc;
+&Agrave;
+&Aring;
+&Atilde;
+&Auml;
+&Ccedil;
+&ETH;
+&Eacute;
+&Ecirc;
+&Egrave;
+&Euml;
+&Iacute;
+&Icirc;
+&Igrave;
+&Iuml;
+&Ntilde;
+&Oacute;
+&Ocirc;
+&Ograve;
+&Oslash;
+&Otilde;
+&Ouml;
+&THORN;
+&Uacute;
+&Ucirc;
+&Ugrave;
+&Uuml;
+&Yacute;
+&aacute;
+&acirc;
+&acute;
+&aelig;
+&agrave;
+&amp;
+&apos;
+&aring;
+&atilde;
+&auml;
+&brvbar;
+&ccedil;
+&cedil;
+&cent;
+&copy;
+&curren;
+&deg;
+&divide;
+&eacute;
+&ecirc;
+&egrave;
+&eth;
+&euml;
+&euro;
+&frac12;
+&frac14;
+&frac34;
+&gt;
+&iacute;
+&icirc;
+&iexcl;
+&igrave;
+&iquest;
+&iuml;
+&laquo;
+&lt;
+&macr;
+&mdash;
+&micro;
+&middot;
+&nbsp;
+&ndash;
+&not;
+&ntilde;
+&oacute;
+&ocirc;
+&ograve;
+&ordf;
+&ordm;
+&oslash;
+&otilde;
+&ouml;
+&para;
+&plusmn;
+&pound;
+&quot;
+&raquo;
+&reg;
+&sect;
+&shy;
+&sup1;
+&sup2;
+&sup3;
+&szlig;
+&thorn;
+&times;
+&trade;
+&uacute;
+&ucirc;
+&ugrave;
+&uml;
+&uuml;
+&yacute;
+&yen;
+&yuml;
+'
+'mat_rendered_faces_spew <n>' Spew the number of faces rendered for the top N models used this frame (mat_rendered_faces_count must be set to use this)
+(
+( def. "%s" )
+()
+(*%s*),
+(anonymous namespace)
+(|
+)
+)#
+*
+*=
++
+++
++=
++o
+,
+,%03d
+,i
+-
+-->
+-=
+->*
+-allowdebug
+-in-
+-valveinternal
+-xlsp
+.
+.%c
+.,
+...
+./
+.\
+/
+//
+//platform/materials/debug/additivevertexcolorvertexalpha
+//platform/materials/debug/debugmodelbones
+//platform/materials/debug/debugmrmnormals
+//platform/materials/debug/debugmrmwireframe
+//platform/materials/debug/debugmrmwireframedisplaced
+//platform/materials/debug/debugmrmwireframezbuffer
+//platform/materials/debug/debugmrmwireframezbufferdisplaced
+//platform/materials/debug/debugsolidmodelhulls
+//platform/materials/debug/debugtranslucentmodelhulls
+//platform/materials/debug/debugvertexcolor
+//platform/materials/debug/debugworldwireframe
+//platform/materials/debug/env_cubemap_model
+/=
+0
+0123456789ABCDEF
+0123456789ABCDEF$
+0123456789abcdef
+04
+0@
+0I
+0t
+0v
+0x%016llX
+0x%p
+0{
+0|
+1
+10ConCommand
+10IAppSystem
+11IRefCounted
+12CEmptyConVar
+12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE
+12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE
+13IStudioRender
+14CBaseAppSystemI13IStudioRenderE
+14ConCommandBase
+15CMemberFunctor0IP13CStudioRenderMS0_FvvE12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE
+15CMemberFunctor1IP13CStudioRenderMS0_FvP21StudioDecalHandle_t__ES3_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE
+15CMemberFunctor1IP13CStudioRenderMS0_FvPFviPN13IStudioRender19FacesRenderedInfo_tEiEES6_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE
+15CMemberFunctor2IP13CStudioRenderMS0_FvibEib12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE
+15CMemberFunctor3IP13CStudioRenderMS0_FvRK15DrawModelInfo_tRK21StudioRenderContext_tRK11matrix3x4_tES2_S5_S8_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE
+15CMemberFunctor4IP13CStudioRenderMS0_FvRK15DrawModelInfo_tRK21StudioRenderContext_tRK11matrix3x4_tiES2_S5_S8_i12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE
+15CMemberFunctor4IP13CStudioRenderMS0_FvRK15DrawModelInfo_tRK21StudioRenderContext_tRK11matrix3x4_tiES2_S5_S8_i12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE18CFuncMemPolicyNoneE
+15CMemberFunctor5IP13CStudioRenderMS0_FvP9IMaterialPvP17FlashlightState_tP7VMatrixP8ITextureES3_S4_S6_S8_SA_12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE18CFuncMemPolicyNoneE
+15CMemberFunctor5IP13CStudioRenderMS0_FvRK15DrawModelInfo_tRK21StudioRenderContext_tP11matrix3x4_tRK13FlexWeights_tiES2_S5_S9_SA_i12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE18CFuncMemPolicyNoneE
+15CMemberFunctor5IP13CStudioRenderMS0_FvRK15DrawModelInfo_tRK21StudioRenderContext_tiPK18MeshInstanceData_tPP15ColorMeshInfo_tES2_S5_iPS8_12CUtlEnvelopeISC_E12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE18CFuncMemPolicyNoneE
+15CMemberFunctor5IP13CStudioRenderMS0_FvRK15DrawModelInfo_tRK21StudioRenderContext_tiPK18MeshInstanceData_tPP15ColorMeshInfo_tES2_S5_iPS8_SD_12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE18CFuncMemPolicyNoneE
+15CMemberFunctor5IP13CStudioRenderMS0_FvRK21StudioRenderContext_tiP17StudioArrayData_tiiES2_iS6_ii12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE18CFuncMemPolicyNoneE
+15CMemberFunctor6IP13CStudioRenderMS0_FvRK22StudioModelArrayInfo_tRK21StudioRenderContext_tiP25StudioArrayInstanceData_tiiES2_S5_iS9_ii12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE18CFuncMemPolicyNoneE
+15CMemberFunctor6IP13CStudioRenderMS0_FvRK22StudioModelArrayInfo_tRK21StudioRenderContext_tiP25StudioArrayInstanceData_tiiES2_S5_iS9_ji12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE18CFuncMemPolicyNoneE
+15CMemberFunctor6IP13CStudioRenderMS0_FvRK23StudioModelArrayInfo2_tRK21StudioRenderContext_tiP17StudioArrayData_tiiES2_S5_iS9_ii12CRefCounted1I8CFunctor24CRefCountServiceDestructI6CRefSTEE18CFuncMemPolicyNoneE
+15CTier0AppSystemI13IStudioRenderE
+15CTier1AppSystemI13IStudioRenderLi0EE
+15CTier2AppSystemI13IStudioRenderLi0EE
+15CTier3AppSystemI13IStudioRenderLi0EE
+16CDefaultAccessor
+16CDllDemandLoader
+16CMemberFunctor13IP13CStudioRenderMS0_FvP21StudioDecalHandle_t__RK21StudioRenderContext_tP11matrix3x4_tP11studiohdr_tRK5Ray_tRK6VectorP9IMaterialfibiPviES3_S4_S8_SA_SB_SE_SI_fibiSJ_i12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE
+18CUtlCharConversion
+19CUtlNoEscConversion
+19ITextureRegenerator
+2
+20CRefCountServiceBaseILb1E6CRefMTE
+20CStudioRenderContext
+20ConVar_ServerBounded
+21CUtlCStringConversion
+21IKeyValuesDumpContext
+23CSplitScreenAddedConVar
+23IConCommandBaseAccessor
+24CGlintTextureRegenerator
+24CRefCountServiceDestructI6CRefSTE
+27IKeyValuesDumpContextAsText
+29CKeyValuesDumpContextAsDevMsg
+3
+4
+4{}()':
+4|
+5
+6
+6"
+6ConVar
+7
+7*
+7IConVar
+8
+8CFmtStrNILi256ELb0EE
+8CFunctor
+8b
+8p
+8q
+8s
+9
+9+
+9a
+:
+::*
+;
+;0
+<
+<!--
+</a>
+</b>
+</h1>
+</i>
+</pre>
+</s>
+</script>
+</u>
+</ul>
+<<
+<< NULL >>
+<<=
+<b>
+<br>
+<h1>
+<i>
+<img src="
+<li>
+<pre>
+<s>
+<u>
+<ul>
+<{
+=
+==
+=u
+>
+>>
+>>=
+?
+?C
+@
+@0
+@@
+@C
+@R_StudioSetupSkin
+@s
+@|
+@}
+@~
+A
+A0
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+B
+Bad data found in model "%s" (bad bone weights)
+Bad expression operator: '%c%c', expected C style operator
+Bad expression token: %c
+BuiltDebug
+C
+C0
+CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!
+CCommand::Tokenize: Encountered command which overflows the tokenizer buffer.. Skipping!
+CKeyValuesTokenReader::SeekBackOneToken: It is only possible to seek back one token at a time
+COLORCORRECTION_VERSION_1
+CStudioRender::AddDecal
+CStudioRender::BuildForcedMaterialRenderList
+CStudioRender::BuildShadowRenderList
+CStudioRender::BuildSortedDecalRenderList
+CStudioRender::CountDecalMeshesToDraw
+CStudioRender::CountMeshesToDraw
+CStudioRender::CountMeshesToDraw (shadow)
+CStudioRender::DrawDecal
+CStudioRender::DrawDecalMaterial
+CStudioRender::DrawModel
+CStudioRender::DrawModelArrayDecals
+CStudioRender::DrawModelArrayStaticProp
+CStudioRender::DrawModelStaticProp
+CStudioRender::DrawShadowMeshRenderData
+CStudioRender::DrawShadows
+CStudioRender::DrawStaticPropDecals
+CStudioRender::GenerateWorldSpacePatches
+CStudioRender::GetTriangles
+CStudioRender::R_StudioFlexVerts
+CStudioRender::R_StudioRenderFinal
+CStudioRender::R_StudioRenderModel
+CStudioRender::SkinSubDCage
+CStudioRender::SoftwareProcessQuadMesh
+CThreadFastMutex::Lock(unsigned int, unsigned int) volatile
+CUtlBuffer::VaPrintf: String overflowed buffer [%d]
+CUtlFixedMemory overflow!
+CUtlLinkedList overflow! (exhausted index range)
+CUtlLinkedList overflow! (exhausted memory allocator)
+CVProfNode::EnterScope()
+CVProfNode::ExitScope()
+CVProfNode::GetSubNode(char const*, int, char const*, int)
+Cannot call CStudioRenderContext::AddShadows w/ proxies in queued mode!
+CkeyValuesTokenReader::SeekBackOneToken: No tokens read yet
+Combined Textures
+CommandLine
+ComputeACCAllPatches (SIMD)
+ComputeACCAllPatches - Geometry Control Points (SIMD)
+ComputeACCAllPatches - Tangents (SIMD)
+ComputeACCEdgePosStencils
+ComputeACCEdgePositions (SIMD)
+ComputeACCInteriorPosStencil
+ComputeACCInteriorPosition (SIMD)
+ComputeCatmullClarkLimitPosStencil
+ComputeCatmullClarkLimitPosition (SIMD)
+ComputeCatmullClarkLimitTanStencil
+ComputeCatmullClarkLimitTangents (SIMD)
+ComputeSkinMatrixSSE
+ConDMsg
+ConMsg(char const*, ...)
+ConVar(%s) defined with infinite float value (%s)
+ConVarRef %s doesn't point to an existing ConVar
+Conditional Error: %s
+Constantly print to screen the top N models as measured by total faces rendered this frame
+Could not process flex for model '%s' (it has > 65536 vertices)
+Could not render decals for model '%s' (it has > 65536 vertices)
+Could not render eyeball for model '%s' (it has > 65536 vertices)
+CreateInterface
+D
+DEMO
+DLOPEN Error:%s
+DebugTextureInfo001
+Decal has more than 16384 indices! (%d) Not adding to %s.
+Decal textures
+DepthWrite
+DevMsg(char const*, ...)
+DevWarning(char const*, ...)
+E
+E0
+ERROR: flex verts have not been converted (queued loader refcount bug?) - expect to see 'exploded' faces
+ERROR: mat_rendered_faces_count must be set in order to use mat_rendered_faces_spew
+ERROR: model verts have been compressed or you don't have them in memory on a console, cannot render! (use "-no_compressed_vvds")
+ERROR: model verts have been compressed, cannot render! (use "-no_compressed_vvds")
+Error
+Error! Model %s .vtx file out of synch with .mdl
+EventSystem001
+Exceeded max material overrides! (%s, %d)
+EyeGlint
+F
+FCVAR_NEVER_AS_STRING
+Faces rendered this frame, by model:
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified!
+G
+G0
+GAMECONSOLE
+GCC: (crosstool-NG 1.12.2) 4.6.1
+GLIBC_2.0
+GLIBC_2.1
+GLIBC_2.1.3
+GLIBC_2.2
+GLIBC_2.2.4
+GLIBC_2.3
+GNU
+GameUISystemMgr001
+GetCPUInformation
+Gx
+H
+HW_Morphing
+Hardware morphing of decals will be busted! Too many unique bones on flexed vertices!
+H{
+I
+I0
+Ia
+InputStackSystemVersion001
+InputSystemVersion001
+InstallChangeCallback called with NULL callback, ignoring!!!
+InstallChangeCallback ignoring duplicate change callback!!!
+J
+JArray
+K
+KB
+KV Conditional Evaluation Error
+KeyValues Error: %s in file %s line %d
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues::RecursiveSaveToFile: TODO, missing code for TYPE_COLOR.
+KeyValues::SaveToFile: couldn't open file "%s" in path "%s".
+KeyValuesSystem
+L
+LINUX
+LOG_GENERAL
+LOWVIOLENCE
+LoadFromBuffer: missing {
+Localize_001
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+Logic Error in CExpressionEvaluator
+L|
+M
+MATCHFRAMEWORK_001
+MDLCache004
+MatSystemSurface006
+MaterialSystemHardwareConfig013
+MeshSystem001
+Mi
+Model Verts
+Model textures
+Module %s is a debug build
+MouthShader
+Msg
+N
+N10__cxxabiv115__forced_unwindE
+N10__cxxabiv119__foreign_exceptionE
+N9__gnu_cxx20recursive_init_errorE
+N9__gnu_cxx24__concurrence_lock_errorE
+N9__gnu_cxx26__concurrence_unlock_errorE
+NetworkSystemVersion001
+No such file
+O
+OSX
+Other textures
+Other_Model_Rendering
+P
+P0
+P3
+P?
+P@
+POSIX
+PS3
+Physics2 Interface ActorMgr v0.1
+Physics2 Interface ResourceMgr v0.1
+Physics2 Interface v0.3
+Plat_ExitProcess
+Plat_FloatTime
+Plat_IsInDebugSession
+Po
+Pr
+ProcessFlexedMesh_SO
+Ps
+Pt
+P{
+Q
+QueuedLoaderVersion001
+R
+R_StudioCreateStaticMeshes (character)
+R_StudioCreateStaticMeshes (prop_dynamic)
+R_StudioCreateStaticMeshes (prop_static)
+R_StudioDrawDynamicMesh
+R_StudioDrawMesh
+R_StudioDrawPoints
+R_StudioDrawStaticMesh
+R_StudioFlexMeshGroup
+R_StudioSetupModel: no such bodypart %d
+R_TransformTangent
+R_TransformVert
+RandomFloat
+RandomInt
+RandomSeed
+ReadToken overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got conditional between key and value
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  recursion overflow
+RenderDevice001
+RenderDeviceMgr001
+RenderHardwareConfig001
+RenderSystemSurface001
+RenderTargets
+ResourceSystem004
+S
+SSE and SSE2 are required.
+STUDIORENDER_DRAW_ACCURATETIME
+SceneSystem_001
+Set to 1 to skip any models that don't go through the model fast path
+Set to N to count how many faces each model draws each frame and spew the top N offenders from the last 150 frames (use 'mat_rendered_faces_spew' to spew all models rendered in the current frame)
+SoundSystem001
+St13bad_exception
+St9exception
+StaticProp textures
+StudioRender failed to connect to a required system
+StudioRender: OBSOLETE material missing: "models/obsolete/obsolete"
+Sy
+T
+ThreadGetCurrentId
+ThreadSleep
+T{
+U
+UCS-2LE
+UCS-4LE
+UTF-32LE
+UTF-8
+Unable to apply decals to model (%s), it has more than 255 unique meshes!
+Unaccounted
+V
+VAvi001
+VBAllocTracker001
+VBik001
+VDataCache003
+VDmeMakeFileUtils001
+VEngineCvar007
+VFileSystem017
+VGUI_Input005
+VGUI_Panel009
+VGUI_Scheme010
+VGUI_Surface031
+VGUI_System010
+VGUI_ivgui008
+VMDLLIB001
+VMaterialSystem080
+VMaterialSystem2_001
+VNewAsyncFileSystem001
+VP4002
+VPhysicsCollision007
+VPrecacheSystem001
+VProcessUtils002
+VResourceAccessControl001
+VSoundEmitter003
+VStudioDataCache005
+VStudioRender026
+VTT for
+V_AppendSlash: ran out of space on %s.
+V_MakeAbsolutePath: _getcwd failed.
+W
+WIN32
+WINDOWS
+Warning
+Warning:  %s = '%s' is infinite, clamping value.
+WorldRendererMgr001
+WriteMiniDump
+X
+X360
+XE
+Xf
+Xu
+X|
+Y
+Z
+[
+[%.3f server clamped to %.3f]
+[*]
+[/b]
+[/code]
+[/h1]
+[/i]
+[/img]
+[/list]
+[/s]
+[/u]
+[/url]
+[b]
+[code]
+[h1]
+[i]
+[img]
+[list]
+[s]
+[u]
+[url=
+\
+]
+^
+^=
+^a
+_
+_Accum
+_Fract
+_GLOBAL_
+_Jv_RegisterClasses
+_Sat
+__ColorDepthWrite000
+__ColorDepthWrite001
+__ColorDepthWrite010
+__ColorDepthWrite011
+__ColorDepthWrite100
+__ColorDepthWrite101
+__ColorDepthWrite110
+__ColorDepthWrite111
+__DepthWrite000
+__DepthWrite001
+__DepthWrite010
+__DepthWrite011
+__DepthWrite100
+__DepthWrite101
+__DepthWrite110
+__DepthWrite111
+___glintbuildmaterial
+___tls_get_addr
+___tls_get_addr@@GLIBC_2.3
+__bss_start
+__cxa_atexit
+__cxa_atexit@@GLIBC_2.1.3
+__cxa_finalize
+__cxa_finalize@@GLIBC_2.1.3
+__errno_location
+__errno_location@@GLIBC_2.0
+__float128
+__gmon_start__
+__gnu_cxx::__concurrence_lock_error
+__gnu_cxx::__concurrence_unlock_error
+__utilBackfacePrepass
+__vector(
+_edata
+_end
+_fini
+_init
+_rt_eyeglint
+_valveinternal
+_xlsp
+`
+`#
+`0
+`3
+`q
+`{
+a
+aN
+aS
+aa
+abort
+abort@@GLIBC_2.0
+acos
+acos@@GLIBC_2.0
+acosf
+acosf@@GLIBC_2.0
+ad
+alignof
+archive
+asin
+asin@@GLIBC_2.0
+atan
+atan2
+atan2@@GLIBC_2.0
+atan2f
+atan2f@@GLIBC_2.0
+atan@@GLIBC_2.0
+az
+b
+basic_iostream
+basic_istream
+basic_ostream
+bin/
+bone changes: %d bones/strip: %d
+bool
+boolean
+borrow
+br
+byte
+bytes
+c
+c0
+cbrtf
+cbrtf@@GLIBC_2.0
+char16_t
+char32_t
+chdir
+chdir@@GLIBC_2.0
+cheat
+cl
+cl_skipslowpath
+client
+clientcmd_can_execute
+cm
+co
+complex
+const
+construction vtable for
+cos@@GLIBC_2.0
+cosf@@GLIBC_2.0
+covariant return thunk to
+d
+d)
+dV
+da
+decimal128
+decimal32
+decimal64
+decltype (
+decltype(nullptr)
+delete
+delete[]
+developer
+dl
+dl_iterate_phdr
+dl_iterate_phdr@@GLIBC_2.2.4
+dlclose
+dlclose@@GLIBC_2.0
+dlerror
+dlerror@@GLIBC_2.0
+dlopen
+dlopen@@GLIBC_2.1
+dlsym
+dlsym@@GLIBC_2.0
+dt
+dv
+d|
+e
+eO
+eo
+eq
+exp
+exp@@GLIBC_2.0
+expf
+expf@@GLIBC_2.0
+f
+failed to dlopen %s error=%s
+false
+float
+float( %f )
+fputc
+fputc@@GLIBC_2.0
+fputs
+fputs@@GLIBC_2.0
+free
+free@@GLIBC_2.0
+g
+g_VProfCurrentProfile
+g_pMemAlloc
+game
+getcwd
+getcwd@@GLIBC_2.0
+global constructors keyed to
+global destructors keyed to
+gt
+guard variable for
+h
+hH
+half
+hi
+hidden alias for
+hp
+hwskinned
+h{
+i
+iconv
+iconv@@GLIBC_2.1
+iconv_close
+iconv_close@@GLIBC_2.1
+iconv_open
+iconv_open@@GLIBC_2.1
+image not found
+imaginary
+img
+int( %d = 0x%X )
+isalnum
+isalnum@@GLIBC_2.0
+iscntrl
+iscntrl@@GLIBC_2.0
+isprint
+isprint@@GLIBC_2.0
+iswalnum
+iswalnum@@GLIBC_2.0
+iswalpha
+iswalpha@@GLIBC_2.0
+iswspace
+iswspace@@GLIBC_2.0
+ix
+j
+java Class for
+java resource
+k
+l
+lS
+ld-linux.so.2
+libc.so.6
+libdl.so.2
+libm.so.6
+libpthread.so.0
+libtier0.so
+libvstdlib.so
+log
+log@@GLIBC_2.0
+long double
+lt
+m
+mI
+mL
+malloc
+malloc@@GLIBC_2.0
+mat_print_top_model_vert_counts
+mat_rendered_faces_count
+mat_rendered_faces_spew
+mat_tessellation_accgeometrytangents
+mat_tessellation_cornertangents
+mat_tessellation_update_buffers
+material: %s
+max. %f
+mbstowcs
+mbstowcs@@GLIBC_2.0
+memcmp
+memcmp@@GLIBC_2.0
+memcpy
+memcpy@@GLIBC_2.0
+memmove
+memmove@@GLIBC_2.0
+memset
+memset@@GLIBC_2.0
+mi
+min. %f
+ml
+mm
+models/obsolete/obsolete
+morph_debug
+n
+na
+ne
+new
+new[]
+non-virtual thunk to
+nonflexed
+notconnected
+notify
+numPasses:%d
+nw
+o
+oR
+oo
+operator
+p
+pG
+pL
+pl
+pm
+pow
+pow@@GLIBC_2.0
+pr
+pre
+printf@@GLIBC_2.0
+proc_eyeglint
+ps
+pthread_cancel
+pthread_cancel@@GLIBC_2.0
+pthread_mutex_lock
+pthread_mutex_lock@@GLIBC_2.0
+pthread_mutex_unlock
+pthread_mutex_unlock@@GLIBC_2.0
+pthread_once
+pthread_once@@GLIBC_2.0
+ptr( 0x%p )
+p|
+q
+qsort
+qsort@@GLIBC_2.0
+qu
+quads: %d
+r
+rM
+rS
+r_flashlightscissor
+r_glint_alwaysdraw
+r_glint_procedural
+r_hwmorph
+r_lod_switch_scale
+r_randomflex
+r_staticlight_streams
+r_staticlight_streams_indirect_only
+rand
+rand@@GLIBC_2.0
+rb
+realloc
+realloc@@GLIBC_2.0
+reference temporary for
+replicated
+restrict
+rm
+rs
+s
+s_pInterfaceRegs
+script
+server_can_execute
+sin@@GLIBC_2.0
+sincos
+sincos@@GLIBC_2.1
+sincosf
+sincosf@@GLIBC_2.1
+sinf
+sinf@@GLIBC_2.0
+singleplayer
+sizeof
+sprintf
+sprintf@@GLIBC_2.0
+ss_added
+sscanf
+sscanf@@GLIBC_2.0
+std
+std::allocator
+std::bad_exception
+std::basic_iostream<char, std::char_traits<char> >
+std::basic_istream<char, std::char_traits<char> >
+std::basic_ostream<char, std::char_traits<char> >
+std::basic_string
+std::basic_string<char, std::char_traits<char>, std::allocator<char> >
+std::iostream
+std::istream
+std::ostream
+std::string
+stderr
+stderr@@GLIBC_2.0
+steam://openurl/
+steam://openurl_external/
+strcasecmp
+strcasecmp@@GLIBC_2.0
+strchr
+strchr@@GLIBC_2.0
+strcmp
+strcmp@@GLIBC_2.0
+strcpy
+strcpy@@GLIBC_2.0
+string literal
+strlen
+strlen@@GLIBC_2.0
+strncat
+strncat@@GLIBC_2.0
+strncmp
+strncmp@@GLIBC_2.0
+strncpy
+strncpy@@GLIBC_2.0
+strnlen
+strnlen@@GLIBC_2.0
+strstr
+strstr@@GLIBC_2.0
+strtod
+strtod@@GLIBC_2.0
+strtol
+strtol@@GLIBC_2.0
+strtoll
+strtoll@@GLIBC_2.0
+strtoul
+strtoul@@GLIBC_2.0
+strtoull
+strtoull@@GLIBC_2.0
+studio_queue_mode
+studiorender
+studiorender.cpp
+swprintf@@GLIBC_2.2
+swscanf
+swscanf@@GLIBC_2.2
+swskinned
+syscall
+syscall@@GLIBC_2.0
+sz
+t
+t%
+tan@@GLIBC_2.0
+tanf
+tanf@@GLIBC_2.0
+terminate called after throwing an instance of '
+terminate called recursively
+terminate called without an active exception
+texture memory: %d (Only valid in a rendering app)
+tolower
+tolower@@GLIBC_2.0
+toupper
+toupper@@GLIBC_2.0
+towlower
+towlower@@GLIBC_2.0
+towupper
+towupper@@GLIBC_2.0
+tris: %d
+true
+typeinfo fn for
+typeinfo for
+typeinfo for __cxxabiv1::__forced_unwind
+typeinfo for __cxxabiv1::__foreign_exception
+typeinfo for __gnu_cxx::__concurrence_lock_error
+typeinfo for __gnu_cxx::__concurrence_unlock_error
+typeinfo for __gnu_cxx::recursive_init_error
+typeinfo name for
+typeinfo name for __cxxabiv1::__forced_unwind
+typeinfo name for __cxxabiv1::__foreign_exception
+typeinfo name for __gnu_cxx::__concurrence_lock_error
+typeinfo name for __gnu_cxx::__concurrence_unlock_error
+typeinfo name for __gnu_cxx::recursive_init_error
+t{
+u
+u64( %lld = 0x%llX )
+ul
+unknown
+unlitgeneric
+unsigned
+unsigned __int128
+unsigned char
+unsigned int
+unsigned long
+unsigned long long
+unsigned short
+update
+user
+v
+vgui/black
+void
+volatile
+vsnprintf
+vsnprintf@@GLIBC_2.0
+vswprintf
+vswprintf@@GLIBC_2.2
+vtable for __cxxabiv1::__class_type_info
+vtable for __cxxabiv1::__forced_unwind
+vtable for __cxxabiv1::__foreign_exception
+vtable for __cxxabiv1::__si_class_type_info
+vtable for __cxxabiv1::__vmi_class_type_info
+vtable for __gnu_cxx::__concurrence_lock_error
+vtable for __gnu_cxx::__concurrence_unlock_error
+vtable for __gnu_cxx::recursive_init_error
+w
+wb
+wchar_t
+wcschr
+wcschr@@GLIBC_2.0
+wcslen
+wcslen@@GLIBC_2.0
+wcsncat
+wcsncat@@GLIBC_2.0
+wcsncpy
+wcsncpy@@GLIBC_2.0
+wcstof
+wcstof@@GLIBC_2.0
+wcstol
+wcstol@@GLIBC_2.0
+wcstombs
+wcstombs@@GLIBC_2.0
+what():
+x
+x#
+y
+z
+zD
+{
+{default arg#
+{lambda(
+{parm#
+{unnamed type#
+|
+|=
+|?
+|B
+||
+}
+}::
+~
+
+C
+D
